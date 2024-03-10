@@ -1,0 +1,2 @@
+**I've decided to keep the database module on hold since I don't have a good pc and mysql workbench in quite different in arch linux hence I've stopped exploring the database side of Data Science, also because I do quite have a basic knowledge about sql.**
+I will be continuing this module after I get my new and powerful laptop.
