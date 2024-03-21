@@ -26,9 +26,27 @@
                 "file": "Progress Tracker/March 2024 Target (Statistics).md"
               }
             }
+          },
+          {
+            "id": "aa257c48d786c98c",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Progress Tracker/March 2024 Target (Statistics).md"
+              }
+            }
+          },
+          {
+            "id": "57971586a50b822b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,16 +183,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6dc95cf2b98bbe25",
+  "active": "aa257c48d786c98c",
   "lastOpenFiles": [
-    "Progress Tracker/Overall Data Science Progress.md",
+    "Progress Tracker/Update 2.md",
     "Progress Tracker/March 2024 Target (Statistics).md",
+    "Progress Tracker/Overall Data Science Progress.md",
+    "Progress Tracker/January 2024 Target (Libraries).md",
+    "Progress Tracker/February 2024 Target.md",
     "Progress Tracker/Update 1.md",
     "Database/SQL",
     "Database",
     "Libraries",
-    "Progress Tracker/February 2024 Target.md",
-    "Progress Tracker/January 2024 Target (Libraries).md",
     "Libraries/Pandas/GroupBy.md",
     "Libraries/Pandas/Pandas's Strings and Datetime.md",
     "Libraries/Pandas/Multi Index & Pivot Tables.md",
@@ -209,7 +228,6 @@
     "OOPs in Python/Inheritance.md",
     "OOPs in Python/Class Relationship(s).md",
     "OOPs in Python/Pass By Reference.md",
-    "Class.md",
     "Images",
     "OOPs in Python"
   ]
