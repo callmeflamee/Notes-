@@ -192,3 +192,16 @@ movies["lead_Actor"] = movies["Actors"].str.split("|").apply(lambda x:x[0])
 movies['is_adult'] = movies["is_adult"].astype("category")
 #No inplace parameter here hence we do manually
 ```
+
+---
+## Profiling
+```python
+from ydata_profiling import ProfileReport
+```
+
+```python
+profile = ProfileReport(df, title="Profiling Report")
+profile.to_file("your_report.html")
+```
+
+**The above will create a HTML report that contains univariate and bivariate analysis of the dataset and also gives information about dirty data, correlations and much more.**

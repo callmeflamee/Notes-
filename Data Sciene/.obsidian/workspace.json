@@ -16,37 +16,8 @@
                 "file": "Progress Tracker/Overall Data Science Progress.md"
               }
             }
-          },
-          {
-            "id": "6dc95cf2b98bbe25",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Progress Tracker/March 2024 Target (Statistics).md"
-              }
-            }
-          },
-          {
-            "id": "aa257c48d786c98c",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Progress Tracker/March 2024 Target (Statistics).md"
-              }
-            }
-          },
-          {
-            "id": "57971586a50b822b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Progress Tracker/March 2024 Target (Statistics).md",
+                "file": "Progress Tracker/Overall Data Science Progress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Progress Tracker/March 2024 Target (Statistics).md",
+                "file": "Progress Tracker/Overall Data Science Progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Progress Tracker/March 2024 Target (Statistics).md"
+                "file": "Progress Tracker/Overall Data Science Progress.md"
               }
             }
           },
@@ -183,21 +154,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "aa257c48d786c98c",
+  "active": "c6ca3b314db74dc5",
   "lastOpenFiles": [
-    "Progress Tracker/Update 2.md",
-    "Progress Tracker/March 2024 Target (Statistics).md",
+    "Progress Tracker/May 2024.md",
     "Progress Tracker/Overall Data Science Progress.md",
+    "Libraries/Pandas/DataFrame.md",
+    "Progress Tracker/March 2024 Target (Statistics).md",
+    "Progress Tracker/Update 2.md",
+    "Progress Tracker/Update 1.md",
     "Progress Tracker/January 2024 Target (Libraries).md",
     "Progress Tracker/February 2024 Target.md",
-    "Progress Tracker/Update 1.md",
     "Database/SQL",
     "Database",
     "Libraries",
     "Libraries/Pandas/GroupBy.md",
     "Libraries/Pandas/Pandas's Strings and Datetime.md",
     "Libraries/Pandas/Multi Index & Pivot Tables.md",
-    "Libraries/Pandas/DataFrame.md",
     "Libraries/Pandas/Merging.md",
     "Binary File Handling.md",
     "Handling/Binary File Handling & JSON.md",
@@ -227,7 +199,6 @@
     "OOPs in Python/Polymorphism.md",
     "OOPs in Python/Inheritance.md",
     "OOPs in Python/Class Relationship(s).md",
-    "OOPs in Python/Pass By Reference.md",
     "Images",
     "OOPs in Python"
   ]

@@ -6,9 +6,9 @@ kanban-plugin: basic
 
 ## To-do
 
-- [ ] Machine Learning Algo's
-- [ ] Machine Learning Techniques
 - [ ] Machine Learning Project 1
+- [ ] Machine Learning Techniques
+- [ ] Machine Learning Algo's
 - [ ] Machine Learning Project 2
 - [ ] MLOPs
 - [ ] MLOPs Project 1
@@ -22,13 +22,15 @@ kanban-plugin: basic
 
 ## In-Progress
 
-- [ ] Statistics v2
+- [ ] Feature Engineering
 
 
 ## Completed
 
 **Complete**
 - [x] Data Gather/Analyse/Cleaning
+- [x] Statistics v2
+- [x] Mathematics v1 (mostly revesion)
 - [x] Numpy
 - [x] Pandas
 - [x] Data Visualization
@@ -37,12 +39,12 @@ kanban-plugin: basic
 - [x] Statistics v1
 - [x] Python v1
 - [x] Python v2
+- [x] Statistic v2
 
 
 ## backlog
 
 - [ ] Mathematics v2 (calc)
-- [ ] Mathematics v1 (mostly revesion)
 
 
 ## On-Hold

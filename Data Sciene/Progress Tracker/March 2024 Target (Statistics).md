@@ -7,20 +7,20 @@ kanban-plugin: basic
 ## Completed
 
 **Complete**
+- [x] Sem 2 prep
 - [x] Descriptive Stats
+- [x] Probability Distribution
 - [x] Sem 2 Internal
 
 
 ## In-Progress
 
-- [ ] Probability Distribution
+- [ ] Inferential Stats
 - [ ] Statistics V2
 
 
 ## To-Do
 
-- [ ] Inferential Stats
-- [ ] Sem 2 prep
 
 
 ## On-Hold
