@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cbe431bed32be517",
+            "id": "2960d71d32818bfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Sciene/Machine Learning/Gradient Descent.md",
+                "file": "Data Sciene/Machine Learning/Supervised Learning/Logistic Regression/Logistic Regression.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "266c253215a83ffe",
+            "id": "5e7a2388e3589717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Sciene/Machine Learning/Gradient Descent.md",
+                "file": "Regularization.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Sciene/Machine Learning/Gradient Descent.md",
+                "file": "Regularization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Sciene/Machine Learning/Gradient Descent.md",
+                "file": "Regularization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Sciene/Machine Learning/Gradient Descent.md"
+                "file": "Regularization.md"
               }
             }
+          },
+          {
+            "id": "32774772b907375b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,26 +171,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "879211e915e8db36",
+  "active": "5e7a2388e3589717",
   "lastOpenFiles": [
-    "Data Sciene/Machine Learning/Multiple Linear Regression.md",
-    "Data Sciene/Images/Pasted image 20240707223835.png",
-    "Pasted image 20240707223758.png",
-    "Data Sciene/Machine Learning/Gradient Descent.md",
-    "Data Sciene/Images/Pasted image 20240707215723.png",
+    "Data Sciene/Machine Learning/Supervised Learning/Logistic Regression/Logistic Regression.md",
+    "Regularization.md",
+    "Pasted image 20240714220801.png",
+    "Pasted image 20240714220544.png",
+    "Pasted image 20240714220257.png",
+    "Pasted image 20240714213807.png",
+    "Screenshot from 2024-07-14 21-33-46.png",
+    "Data Sciene/Images/Pasted image 20240710231228.png",
+    "Data Sciene/Machine Learning/Supervised Learning/Linear Regression/Gradient Descent.md",
+    "Data Sciene/Images/Pasted image 20240710231113.png",
+    "Data Sciene/Images/Pasted image 20240710225903.png",
+    "Data Sciene/Images/Pasted image 20240710225646.png",
+    "Data Sciene/Images/Pasted image 20240710224454.png",
+    "Data Sciene/Machine Learning/Supervised Learning/Linear Regression/Univariate Linear Regression.md",
+    "Data Sciene/Machine Learning/Introduction.md",
+    "Data Sciene/Machine Learning/Supervised Learning/Logistic Regression",
+    "Data Sciene/Machine Learning/Supervised Learning/Linear Regression",
+    "Data Sciene/Machine Learning/Supervised Learning",
+    "Data Sciene/Machine Learning/Supervised Learning/Linear Regression/Regression Metrics.md",
+    "Data Sciene/Machine Learning/Supervised Learning/Linear Regression/Multiple Linear Regression.md",
     "Data Sciene/Feature Enginering/Normalization.md",
-    "Data Sciene/Images/Pasted image 20240707215551.png",
-    "Pasted image 20240707215552.png",
-    "Pasted image 20240707215554.png",
     "Data Sciene/Feature Enginering/Feature Scaling & Standardization.md",
     "MinMax Scaling.md",
-    "Data Sciene/Images/Pasted image 20240706165230.png",
     "Excalidraw/Drawing 2024-07-06 15.45.50.excalidraw.md",
-    "Data Sciene/Images/Pasted image 20240706154751.png",
-    "Data Sciene/Images/Pasted Image 20240706154605_395.png",
-    "Data Sciene/Images/Screenshot from 2024-06-30 17-24-31.png",
     "Data Sciene/Progress Tracker/July Target.md",
-    "Data Sciene/Machine Learning/Univariate Linear Regression.md",
     "Excalidraw/Drawing 2024-07-02 20.55.34.excalidraw.md",
     "Excalidraw/Drawing 2024-07-02 20.58.40.excalidraw.md",
     "Excalidraw/Drawing 2024-07-02 20.33.58.excalidraw.md",
@@ -195,13 +211,9 @@
     "imagex",
     "Data Sciene/Libraries/Numpy/Numpy Functions.md",
     "Data Sciene/Feature Enginering",
-    "Data Sciene/Machine Learning/Introduction.md",
     "Data Sciene/Progress Tracker/Overall Data Science Progress.md",
     "Data Sciene/Progress Tracker/May 2024.md",
     "Data Sciene/Progress Tracker/March 2024 Target (Statistics).md",
-    "Data Sciene/OOPs in Python/Inheritance.md",
-    "Data Sciene/OOPs in Python/Polymorphism.md",
-    "Data Sciene/OOPs in Python/Encapsulation.md",
     "Data Sciene/Machine Learning"
   ]
 }
